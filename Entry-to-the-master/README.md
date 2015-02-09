@@ -47,4 +47,4 @@
 
 ![][image-1]
 
-[image-1]:	images/2-1.jpg
+[image-1]:images/2-1.jpg
