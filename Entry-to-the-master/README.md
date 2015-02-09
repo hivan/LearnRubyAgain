@@ -26,7 +26,7 @@
 #### 2.2.2 造人过程
 
 	class Person
-			attr_accessor :name, :age, :gender
+	        attr_accessor :name, :age, :gender
 	end
 
 上一行代码为Person类提供了三个属性(attributes). 每个Person都有`name`,`age`和`gender`, `attr`代表`attribute`(属性)，而`accessor`大概表示“让这些属性可以访问，可被设置和修改”。
@@ -47,4 +47,5 @@
 
 ![][image-1]
 
-[image-1]:images/2-1.jpg
+
+[image-1]:	images/2-1.jpg
